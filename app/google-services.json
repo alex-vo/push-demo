@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865924219636",
+    "firebase_url": "https://my-awesome-project-9e82a.firebaseio.com",
+    "project_id": "my-awesome-project-9e82a",
+    "storage_bucket": "my-awesome-project-9e82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865924219636:android:6cc34a80f9ccfd8319d4a1",
+        "android_client_info": {
+          "package_name": "com.luminorgroup.luminor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865924219636-4me7rb8kf7680hf19kotkt1apl2h0u1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72QJZZ4XQFdHce_oVLhmvY5hRbhY_Nps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865924219636-4me7rb8kf7680hf19kotkt1apl2h0u1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865924219636-c0ahaiknq63ssg33j0b42pnl3g5td2f9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luminorgroup.luminor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
